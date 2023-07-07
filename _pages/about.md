@@ -21,15 +21,29 @@ redirect_from:
 
 # ✨ About me
 - I am now the postgraduate student in School of Economics and Management, <img src='./images/hebut.jpg' style='width: 2.5em;'> [Hebei University of Technology](https://www.hebut.edu.cn/).
-- 🐳**Research field**: *Machine learning*, *Deep learning*, *Prognostics and Health Management (PHM)*, *Model Interpretability*
-- 🐳**Supervisor**: [Shanshan Lv](https://scholar.google.com/citations?user=KUm3AWkAAAAJ&hl=zh-CN), [Prof.Xiaodan Wu](https://scholar.google.com/citations?user=bl4skXAAAAAJ&hl=zh-CN)
-- 🐳**Funding resource**: *Research funded by National Natural Science Foundation of China (Granted number: 72002066)*
+- 🐳**Research field:** *Machine learning*, *Deep learning*, *Prognostics and Health Management (PHM)*, *Model Interpretability*
+- 🐳**Supervisor:** [Shanshan Lv](https://scholar.google.com/citations?user=KUm3AWkAAAAJ&hl=zh-CN), [Prof.Xiaodan Wu](https://scholar.google.com/citations?user=bl4skXAAAAAJ&hl=zh-CN)
+- 🐳**Funding resource:** *Research funded by National Natural Science Foundation of China (Granted number: 72002066)*
 - 🌐I am now working on our team and lab, respondsible for 🩺*Formal analysis*, 🔍️*Methodology* and 🧑‍💻*Coding* in specific field. If you are seeking any form of **academic cooperation**, please feel free to email me at [wyncoup@gmail.com](wyncoup@gmail.com).
 
 
 
 
 # 🔥 News
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2023</div><img src='images/news3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎉🎉**Conference of Chinese Association for Applied Statistics**
+
+**Reporter：Yinuo Wen**
+
+**Report the proceeding paper** 
+- **Report Title:** Fault diagnosis for high‑dimensional and imbalanced data using two‑stage feature extraction and two‑dimensional convolutional
+neural network
+- Presentation of paper work in the reliability session
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2023</div><img src='images/news1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
