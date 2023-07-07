@@ -53,7 +53,7 @@ neural network
 Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi, Yichen Zhao
 
 **Project:Equipment health management and maintenance decisions based on data-driven algorithms and deep learning** 
-- Participated in funding application projects. Responsible for data‑driven algorithms and fault diagnosis part as member.
+- Participated in funding application projects. Responsible for data‑driven algorithms and fault diagnosis part as member
 - **Working Paper (Finish coding)**: MDSC-LViT:Multiscale Vision Transformer model and model interpretability
 - [**Demo Website**](https://cnntest.anvil.app/)
 </div>
