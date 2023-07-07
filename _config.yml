@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yinuo Wen (温依诺)"
-description              : "MPhil in Industrial Engineering and Management (Big Data and Intelligent Decision Making Track). "
+description              : "MPhil in Industrial Engineering and Management (Big Data and Intelligent Decision Making Track) "
 repository               : "YinuoWen/YinuoWen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yinuo Wen (温依诺)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/467b526138d8629deb44a297fdf0d10.jpg"
   bio              : "Hebei University of Technology (211 project)"
   location         : "Tianjin, China"
   employer         :
