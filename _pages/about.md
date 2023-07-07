@@ -20,7 +20,7 @@ redirect_from:
 
 
 # ✨ About me
-- I am now the postgraduate student in School of Economics and Management, [Hebei University of Technology](https://www.hebut.edu.cn/).<img src='./images/hebut.jpg' style='width: 2.5em;'>
+- I am now the postgraduate student in School of Economics and Management, [Hebei University of Technology](https://www.hebut.edu.cn/)<img src='./images/hebut.jpg' style='width: 2.5em;'>.
 - 🐳**Research field**: *Machine learning*, *Deep learning*, *Prognostics and Health Management (PHM)*, *Model Interpretability*
 - 🐳**Supervisor**: [Shanshan Lv](https://scholar.google.com/citations?user=KUm3AWkAAAAJ&hl=zh-CN), [Prof.Xiaodan Wu](https://scholar.google.com/citations?user=bl4skXAAAAAJ&hl=zh-CN)
 - 🐳**Funding resource**: *Research funded by National Natural Science Foundation of China (Granted number: 72002066)*
