@@ -31,7 +31,7 @@ redirect_from:
 
 # 🔥 News
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2023</div><img src='images/news3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2023</div><img src='images/news3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🎉🎉**Conference of Chinese Association for Applied Statistics**
@@ -59,7 +59,7 @@ Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi, Yichen Zhao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jan 2023</div><img src='images/news2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jan 2023</div><img src='images/new2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🎉🎉**Machine Learning Winter Programme**
