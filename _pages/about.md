@@ -114,9 +114,18 @@ Shanshan Lv, **Yinuo Wen**, Zhen He, Cong Cheng, Xiaodan Wu*
 
 
 # 💻 Internships
-- *2021.05 - 2021.09*, [Flender Co Ltd.,](https://www.flender.com/), China.
-- *2018.09 - 2018.11*, Hebei International Industrial Design Week, China
+- *2021.05 - 2021.09*, 👔[Flender Co Ltd.,](https://www.flender.com/), China.
+- *2018.09 - 2018.11*, 👔Hebei International Industrial Design Week, China
 # 🔖 Course
 
-- **MPhil Course:** 
+**MPhil Course:**
+- Applied Statistics
+- Operational Research
+- Advanced Quality Management
+- Fundamental Industrial Engineering, Intellectual property
+- TRIZ-Innovative approach
+- Big data analytics and cases
+- Blockchain applications and cases
+- Data mining and Knowledge discovery
+- Next-generation Internet technology 
 
