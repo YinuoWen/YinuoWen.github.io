@@ -24,7 +24,7 @@ redirect_from:
 - 🐳**Research field**: *Machine learning*, *Deep learning*, *Prognostics and Health Management (PHM)*, *Model Interpretability*
 - 🐳**Supervisor**: [Shanshan Lv](https://scholar.google.com/citations?user=KUm3AWkAAAAJ&hl=zh-CN), [Prof.Xiaodan Wu](https://scholar.google.com/citations?user=bl4skXAAAAAJ&hl=zh-CN)
 - 🐳**Funding resource**: *Research funded by National Natural Science Foundation of China (Granted number: 72002066)*
-- 🌐I am now working on our team and lab, respondsible for 🩺Formal analysis, 🔍️Methodology and 🧑‍💻Coding in specific field. If you are seeking any form of **academic cooperation**, please feel free to email me at [wyncoup@gmail.com](wyncoup@gmail.com).
+- 🌐I am now working on our team and lab, respondsible for 🩺*Formal analysis*, 🔍️*Methodology* and 🧑‍💻*Coding* in specific field. If you are seeking any form of **academic cooperation**, please feel free to email me at [wyncoup@gmail.com](wyncoup@gmail.com).
 
 
 
@@ -34,13 +34,13 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2023</div><img src='images/news1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-&nbsp;🎉🎉**Hebei Provincial Natural Science Foundation Application**
+🎉🎉**Hebei Provincial Natural Science Foundation Application**
 
 Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi, Yichen Zhao
 
 **Project:Equipment health management and maintenance decisions based on data-driven algorithms and deep learning** 
 - Participated in funding application projects. Responsible for data‑driven algorithms and fault diagnosis part as member.
-- **Working Paper (Finished coding)**: MDSC-LViT:Multiscale Vision Transformer model and model interpretability
+- **Working Paper (Finish coding)**: MDSC-LViT:Multiscale Vision Transformer model and model interpretability
 - [**Demo Website**](https://cnntest.anvil.app/)
 </div>
 </div>
