@@ -122,7 +122,8 @@ Shanshan Lv, **Yinuo Wen**, Zhen He, Cong Cheng, Xiaodan Wu*
 - Applied Statistics
 - Operational Research
 - Advanced Quality Management
-- Fundamental Industrial Engineering, Intellectual property
+- Fundamental Industrial Engineering
+- Intellectual property
 - TRIZ-Innovative approach
 - Big data analytics and cases
 - Blockchain applications and cases
