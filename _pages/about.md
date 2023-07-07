@@ -66,7 +66,7 @@ Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi, Yichen Zhao
 
 **Girton College, University of Cambridge**
 
-**Project Team Leader** 
+**Project Team Leader: Yinuo Wen** 
 - **Funded by International Exchange Scholarship from Hebei University of Technology**
 - **Graduated with Distinction as the team leader**
 - **Working Paper**:  Applications of Credit Assignment in Multi‑Agent Reinforcement Learning for Robotics
