@@ -30,8 +30,20 @@ redirect_from:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2023</div><img src='images/news1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+&nbsp;🎉🎉**Hebei Provincial Natural Science Foundation**
+
+Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi
+
+[**Project:Equipment health management and maintenance decisions based on data-driven algorithms and deep learning**] 
+- Participated in funding application projects. Responsible for data‑driven algorithms and fault diagnosis part.
+-  Completed scientific research projects. Working Paper: Multiscale Vision Transformer model construction and model interpretability 
+</div.
+</div>
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
