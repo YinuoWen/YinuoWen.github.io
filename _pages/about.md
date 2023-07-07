@@ -34,11 +34,11 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2023</div><img src='images/news1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-&nbsp;🎉🎉**Hebei Provincial Natural Science Foundation**
+&nbsp;🎉🎉**Hebei Provincial Natural Science Foundation Application**
 
-Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi
+Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi, Yichen Zhao
 
-[**Project:Equipment health management and maintenance decisions based on data-driven algorithms and deep learning**] 
+**Project:Equipment health management and maintenance decisions based on data-driven algorithms and deep learning** 
 - Participated in funding application projects. Responsible for data‑driven algorithms and fault diagnosis part as member.
 - **Working Paper (Finished coding)**: MDSC-LViT:Multiscale Vision Transformer model and model interpretability
 - [**Demo Website**](https://cnntest.anvil.app/)
