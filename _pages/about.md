@@ -108,7 +108,7 @@ Shanshan Lv, **Yinuo Wen**, Zhen He, Cong Cheng, Xiaodan Wu*
 
 -  **Submitted to journal**
 -  **Affiliation:** Hebei University of Technology & Tianjin University
--  **contribution:** Writing‑Original Draft, Methodology, Formal analysis, Software, Validation, Visualization, Data Curation
+-  **Contribution:** Writing‑Original Draft, Methodology, Formal analysis, Software, Validation, Visualization, Data Curation
 -  **Funding resource:** Funded by National Natural Science Foundation of China (Granted number: 72002066,71902138, 72102059, 72231005 and 72032005)
 
 
@@ -116,6 +116,7 @@ Shanshan Lv, **Yinuo Wen**, Zhen He, Cong Cheng, Xiaodan Wu*
 # 💻 Internships
 - *2021.05 - 2021.09*, 👔[Flender Co Ltd.,](https://www.flender.com/), China.
 - *2018.09 - 2018.11*, 👔Hebei International Industrial Design Week, China
+
 # 🔖 Course
 
 **MPhil Course:**
