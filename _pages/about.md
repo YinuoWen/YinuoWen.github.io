@@ -59,6 +59,20 @@ Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi, Yichen Zhao
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jan 2023</div><img src='images/news2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎉🎉**Machine Learning Winter Programme**
+
+**Girton College, University of Cambridge**
+
+**Project Team Leader** 
+- **Funded by International Exchange Scholarship from Hebei University of Technology**
+- **Graduated with Distinction as the team leader**
+- **Working Paper**:  Applications of Credit Assignment in Multi‑Agent Reinforcement Learning for Robotics
+</div>
+</div>
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
