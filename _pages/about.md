@@ -18,7 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am now the postgraduate student in School of Economics and Management, [Hebei University of Technology](https://www.hebut.edu.cn/)<img src='./images/hebut.jpg' style='width: 3em;'>.
+-I am now the postgraduate student in School of Economics and Management, [Hebei University of Technology](https://www.hebut.edu.cn/)<img src='./images/hebut.jpg' style='width: 3em;'>
+-Research field：Machine learning, Deep learning, Prognostics and Health Management Society (PHM), Model Interpretability
+-Supervisor: Prof.Xiaodan Wu, Shanshan Lv
+-Funding resource: Research funded by National Natural Science Foundation of China (Granted number: 72002066)
 
 
 
@@ -55,31 +58,6 @@ I am now the postgraduate student in School of Economics and Management, [Hebei 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 # 🔖 Course
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">1</th>
-    <th class="tg-0pky">2</th>
-    <th class="tg-0pky">3</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
-</table>
+
 
 
