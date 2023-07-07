@@ -39,8 +39,8 @@ redirect_from:
 Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi
 
 [**Project:Equipment health management and maintenance decisions based on data-driven algorithms and deep learning**] 
-- Participated in funding application projects. Responsible for data‑driven algorithms and fault diagnosis part.
-- Completed scientific research projects. Working Paper: Multiscale Vision Transformer model construction and model interpretability
+- Participated in funding application projects. Responsible for data‑driven algorithms and fault diagnosis part as member.
+- **Working Paper (Finished coding)**: MDSC-LViT:Multiscale Vision Transformer model and model interpretability
 - [**Demo Website**](https://cnntest.anvil.app/)
 </div>
 </div>
