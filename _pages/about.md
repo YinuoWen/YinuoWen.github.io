@@ -83,7 +83,7 @@ Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi, Yichen Zhao
 - Minor BENG in Computer Science and Technology (Big Data Track) Transfer to MPhil later
 
 **2016.09 - 2020.6  <img src='./images/hebut.jpg' style='width: 2.5em;'>Hebei University of Technology, Tianjin, China**
-- BENG in Chemical engineering and technology
+- BENG in Chemical Engineering and Technology
 - GPA:3.07/4 Ranking 35%
 
 
