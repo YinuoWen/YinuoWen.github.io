@@ -34,7 +34,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2023</div><img src='images/news3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎉🎉**Conference of Chinese Association for Applied Statistics**
+🎉🎉**Reliability Engineering Symposium，Chinese Association for Applied Statistics（CAAS）2023 Annual Conference**
 
 **Reporter：Yinuo Wen**
 
