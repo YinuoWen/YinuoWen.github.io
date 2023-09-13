@@ -89,7 +89,9 @@ Shanshan Lv, **Yinuo Wen**, Chengcheng Xia, Hehui Shi, Yichen Zhao
 
 # 🎖 Honors and Awards
 **2023  🎉Scholarship** The 6th Postgraduate Mathematical Modeling Competition of Hebei Province,  Special Prize (Rank Top5/483), Team leader, China 
+
 **2023  💫Scholarship** Postgraduate Scholarship from Hebei University of Technology, China 
+
 **2022  💫Scholarship** Postgraduate Scholarship from Hebei University of Technology, China 
 
 **2020  🚀UNIPI Scholarship** [Merit scholarship for International student from University of Pisa](https://www.unipi.it/index.php/tuition-fees-and-financial-support/item/2274-unipi-scholarship), Italy
