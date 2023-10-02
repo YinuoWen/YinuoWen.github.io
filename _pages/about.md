@@ -23,7 +23,7 @@ redirect_from:
 - I am now the postgraduate student in School of Economics and Management, <img src='./images/hebut.jpg' style='width: 2.5em;'> [Hebei University of Technology](https://www.hebut.edu.cn/).
 - 🐳**Research field:** *Machine learning*, *Deep learning*, *Prognostics and Health Management (PHM)*, *Model Interpretability*
 - 🐳**Supervisor:** Shanshan Lv, Prof.Xiaodan Wu
-- 🐳**Funding resource:** *Research funded by National Natural Science Foundation of China (Granted number: 72002066)*
+- 🐳**Funding resource:** *1.Research funded by National Natural Science Foundation of China (Granted No. 72002066)- Product reliability analysis and robust optimization research based on Non-complete randomized experimental design*,*2.The Key Program of the National Natural Science Foundation of China(Grant No. 72231005)- Customized production and quality management for intelligent manufacturing*, *3.The National Social Science Fund of China (Grant No. 23AGL018)- Research on collaborative diagnosis and treatment mechanism for cross-regional medical service homogenization*
 - 🌐I am now working on our team and lab, responsible for 🩺*Formal analysis*, 🔍️*Methodology* and 🧑‍💻*Coding* in specific field. If you are seeking any form of **academic cooperation**, please feel free to email me at [wyncoup@gmail.com](wyncoup@gmail.com).
 
 
