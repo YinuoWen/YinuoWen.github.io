@@ -40,7 +40,8 @@ redirect_from:
 
 **Team leader：Yinuo Wen** 
 - **Thesis Title:**  Anomaly Detection of PV Cells Based on Yolov5s , BiLSTM Time Series Prediction and SARIMA‑SVR and LASSO
-- **Keywords** Fault detection, Image processing, Machine learning, Deep learning
+- **Keywords:** Fault detection, Image processing, Machine learning, Deep learning
+- [**Yolov5s-ClearML parameter monitoring**](https://app.clear.ml/projects/469db0689b214fb8a80bfb6a833b14a2/experiments/791f91e4a68d40faa6ad8e78353ff646/output/execution)
 </div>
 </div>
 
