@@ -31,6 +31,19 @@ redirect_from:
 
 # 🔥 News
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sep 2023</div><img src='images/444.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎉🎉**The 6th Postgraduate Mathematical Modeling Competition of Hebei Province, Special Prize (Rank Top5/483)**
+
+**Member：Yinuo Wen，zhihui Jia, Hehui Shi**
+
+**Team leader：Yinuo Wen** 
+- **Thesis Title:**  Anomaly Detection of PV Cells Based on Yolov5s , BiLSTM Time Series Prediction and SARIMA‑SVR and LASSO
+- **Keywords** Fault detection, Image processing, Machine learning, Deep learning
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jun 2023</div><img src='images/news3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
