@@ -36,7 +36,7 @@ redirect_from:
 
 🎉🎉**The 6th Postgraduate Mathematical Modeling Competition of Hebei Province, Special Prize (Rank Top5/483)**
 
-**Member：Yinuo Wen，zhihui Jia, Hehui Shi**
+**Member：Yinuo Wen，Zhihui Jia, Hehui Shi**
 
 **Team leader：Yinuo Wen** 
 - **Thesis Title:**  Anomaly Detection of PV Cells Based on Yolov5s , BiLSTM Time Series Prediction and SARIMA‑SVR and LASSO
